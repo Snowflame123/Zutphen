@@ -1,0 +1,70 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    background-color:rgb(235, 228, 234);
+}
+
+.Header {
+    background-blend-mode: soft-light;
+    background-color: rgb(49, 177, 128);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: initial;
+    color: khaki;
+    outline-style: hidden;
+    outline-offset: unset;
+    text-align: center;
+    margin: 20px;
+    shape-margin: 3px;
+    outline-color: brown; 
+    padding: 10px;
+}
+
+
+.Display {
+    display: flex;
+}
+
+.small_picture_box {
+    display: flex;
+    margin: 20px;
+}
+h2 {
+    padding: 20px;
+    color: blueviolet;
+    background-color: pink;
+    margin: 20px;
+}
+
+.Religion {
+    padding: 15px;
+    font-family: sans-serif;
+    margin: 10px;
+    background-color: blueviolet;
+}
+.Introductory {
+    padding: 15px;
+    margin: 10px;
+    background-color: rgb(243, 229, 99);
+    color: rgb(5, 51, 5);
+    font-weight: bold;
+}
+
+.Fun_Fact {
+    margin: 10px;
+    background-color: aquamarine;
+    font-family: sans-serif;
+    padding: 10px;
+}
+
+img {
+    margin: 20px;
+}
+
+.Humour {
+    display: flex;
+}
